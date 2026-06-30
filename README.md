@@ -5,7 +5,7 @@
 <img src="https://i.pinimg.com/originals/15/8c/e8/158ce88cc8138f4078e7eac1212f1976.jpg" alt="Coding" width="500"/>
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/myrsaliev_dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myrsaliev.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:myrsaliev.dev@gmail.com)
 
 </div>
 
