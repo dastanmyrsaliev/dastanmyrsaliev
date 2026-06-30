@@ -54,6 +54,6 @@ Python Backend Developer with experience in building web applications. Focused o
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dastanmyrsaliev&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-endless-coding.vercel.app/api?username=dastanmyrsaliev&show_icons=true&theme=dark)
 
 </div>
